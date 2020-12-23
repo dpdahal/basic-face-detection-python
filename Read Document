@@ -1,0 +1,6 @@
+==========Install ===============
+
+pip install opencv-python
+
+================Below link open any browser and save===================
+https://raw.githubusercontent.com/opencv/opencv/master/data/haarcascades/haarcascade_frontalface_default.xml
